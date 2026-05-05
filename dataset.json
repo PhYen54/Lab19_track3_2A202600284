@@ -1,0 +1,102 @@
+[
+  {
+    "query": "Who founded Apple Inc. and when was it founded?",
+    "ground_truth": "Apple Inc. was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership called Apple Computer Company. It was incorporated by Jobs and Wozniak as Apple Computer, Inc. the following year.",
+    "document_name": "Apple Inc."
+  },
+  {
+    "query": "When did Apple become the first publicly traded US company valued at over $1 trillion?",
+    "ground_truth": "Apple became the first publicly traded US company to be valued at over $1 trillion in 2018. As of October 2025, it is valued at just over $4 trillion.",
+    "document_name": "Apple Inc."
+  },
+  {
+    "query": "Who founded Microsoft, in what year, and what was the company's original purpose?",
+    "ground_truth": "Microsoft was founded on April 4, 1975, by Bill Gates and Paul Allen to market BASIC interpreters for the Altair 8800 microcomputer.",
+    "document_name": "Microsoft"
+  },
+  {
+    "query": "What major acquisitions did Microsoft make under Satya Nadella's leadership?",
+    "ground_truth": "Under Satya Nadella, who became CEO in 2014, Microsoft acquired LinkedIn in 2016, established the Microsoft Gaming division in 2022, and acquired Activision Blizzard in 2023. The company also shifted its focus towards cloud computing during his tenure.",
+    "document_name": "Microsoft"
+  },
+  {
+    "query": "How and when was Alphabet Inc. created?",
+    "ground_truth": "Alphabet Inc. was created through a restructuring of Google on October 2, 2015. It became the parent holding company of Google and several former Google subsidiaries, prompted by a desire to make the core Google business more accountable while allowing greater autonomy to group companies operating outside Internet services.",
+    "document_name": "Alphabet Inc."
+  },
+  {
+    "query": "Who is the CEO of Alphabet Inc. and what happened to its founders Larry Page and Sergey Brin?",
+    "ground_truth": "Sundar Pichai is the CEO of Alphabet Inc., having also served as CEO of Google. Founders Larry Page and Sergey Brin announced their resignation from executive posts in December 2019, but remain employees, board members, and controlling shareholders of Alphabet Inc.",
+    "document_name": "Alphabet Inc."
+  },
+  {
+    "query": "Who founded Amazon, when, and what was the company originally called?",
+    "ground_truth": "Amazon was founded by Jeff Bezos on July 5, 1994, in Bellevue, Washington. It was originally founded as 'Cadabra' and renamed to Amazon a few months later in November 1994. It originally started as an online marketplace for books.",
+    "document_name": "Amazon (company)"
+  },
+  {
+    "query": "What are Amazon's major subsidiaries mentioned in the document?",
+    "ground_truth": "Amazon's major subsidiaries include Amazon Web Services (AWS) for cloud computing, Zoox (self-driving car division), Kuiper Systems (satellite Internet provider), Amazon Lab126 (computer hardware R&D), Ring, Twitch, IMDb, and Whole Foods Market.",
+    "document_name": "Amazon (company)"
+  },
+  {
+    "query": "What social media platforms and services does Meta Platforms own and operate?",
+    "ground_truth": "Meta Platforms owns and operates several prominent social media platforms and communication services, including Facebook, Instagram, WhatsApp, Messenger, Threads, and Manus. The company also operates an advertising network for its own sites and third parties.",
+    "document_name": "Meta Platforms"
+  },
+  {
+    "query": "Why did Facebook rebrand to Meta Platforms in 2021 and what was the company originally called?",
+    "ground_truth": "The company was originally established in 2004 as TheFacebook, Inc., renamed Facebook, Inc. in 2005, and rebranded as Meta Platforms, Inc. in 2021 to reflect a strategic shift toward developing the metaverse — an interconnected digital ecosystem spanning virtual and augmented reality technologies.",
+    "document_name": "Meta Platforms"
+  },
+  {
+    "query": "Who are Nvidia's three co-founders and how did they decide to start the company?",
+    "ground_truth": "Nvidia was founded by Jensen Huang, Chris Malachowsky, and Curtis Priem. In late 1992, the three men agreed to start the company in a meeting at a Denny's roadside diner on Berryessa Road in East San Jose. Priem resigned first from Sun on December 31, 1992, breaking the deadlock, which prompted Huang and Malachowsky to also give notice.",
+    "document_name": "Nvidia"
+  },
+  {
+    "query": "What market share did Nvidia hold in the GPU market for AI training as of 2025, and what valuation milestone did it achieve?",
+    "ground_truth": "As of 2025, Nvidia controlled more than 80% of the market for GPUs used in training and deploying AI models, and provided chips for over 75% of the world's TOP500 supercomputers. In 2025, Nvidia became the first company in the world to surpass US$4 trillion and US$5 trillion in market capitalization.",
+    "document_name": "Nvidia"
+  },
+  {
+    "query": "When was Samsung Electronics founded and what are its key positions in global technology markets?",
+    "ground_truth": "Samsung Electronics was founded in 1969. It has been the largest vendor of smartphones since 2012, the largest television manufacturer since 2006, and is the world's largest semiconductor memory manufacturer. As of 2023, it is the world's fourth-largest technology company by revenue.",
+    "document_name": "Samsung Electronics"
+  },
+  {
+    "query": "What electronic components does Samsung Electronics manufacture for other technology companies?",
+    "ground_truth": "Samsung Electronics manufactures electronic components including lithium-ion batteries, semiconductors, image sensors, camera modules, and displays for clients such as Apple, Sony, HTC, and Nokia. It is the world's largest semiconductor memory manufacturer.",
+    "document_name": "Samsung Electronics"
+  },
+  {
+    "query": "What is TSMC's share of the global semiconductor foundry market and who are its main customers?",
+    "ground_truth": "TSMC holds approximately 70% of the global semiconductor foundry market share. Its main customers include fabless companies such as Nvidia, Apple, Broadcom, Qualcomm, AMD, ARM, Marvell, and MediaTek, as well as some integrated device manufacturers like Intel, NXP, and Texas Instruments that outsource part of their production.",
+    "document_name": "TSMC"
+  },
+  {
+    "query": "Who founded TSMC, when was it established, and what made it historically significant?",
+    "ground_truth": "TSMC was established in 1987 as a joint venture between Taiwan's government, the Industrial Technology Research Institute (ITRI), and private investors. Morris Chang founded the company to commercialize semiconductor research originally developed at ITRI, making it the world's first dedicated semiconductor foundry.",
+    "document_name": "TSMC"
+  },
+  {
+    "query": "Who originally incorporated Tesla, Inc. and how did Elon Musk become involved?",
+    "ground_truth": "Tesla was incorporated on July 1, 2003, by Martin Eberhard and Marc Tarpenning as Tesla Motors. In February 2004, Elon Musk led Tesla's first funding round of US$7.5 million, contributing $6.5 million himself, and became the chairman of the board and the largest shareholder. He was later named CEO in 2008.",
+    "document_name": "Tesla, Inc."
+  },
+  {
+    "query": "What vehicle models has Tesla produced and in what years were they launched?",
+    "ground_truth": "Tesla produced the Roadster sports car in 2008, the Model S sedan in 2012, the Model X SUV in 2015, the Model 3 sedan in 2017, the Model Y crossover in 2020, the Tesla Semi truck in 2022, and the Cybertruck pickup truck in 2023.",
+    "document_name": "Tesla, Inc."
+  },
+  {
+    "query": "What are the origins of Broadcom Inc. and how did it evolve into its current form?",
+    "ground_truth": "Broadcom Inc. originated as HP Associates, a semiconductor division of Hewlett-Packard established in 1961. After separating as part of Agilent Technologies in 1999, it was acquired by KKR and Silver Lake Partners in 2005 to form Avago Technologies. Avago then acquired Broadcom Corporation in 2016 for $37 billion and renamed itself Broadcom Limited, before adopting the current name Broadcom Inc. in November 2017.",
+    "document_name": "Broadcom"
+  },
+  {
+    "query": "What revenue breakdown does Broadcom have as of 2025 and what major acquisition did it complete in 2023?",
+    "ground_truth": "As of 2025, 58% of Broadcom's revenue came from semiconductor-based products and 42% from infrastructure software products and services. In May 2022, Broadcom announced an agreement to acquire VMware in a cash-and-stock transaction valued at $69 billion, which was closed on November 22, 2023.",
+    "document_name": "Broadcom"
+  }
+]
